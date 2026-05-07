@@ -1,0 +1,1 @@
+# VideoLLaMA2 trainer placeholder
